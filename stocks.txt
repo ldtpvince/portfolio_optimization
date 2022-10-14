@@ -1,0 +1,6 @@
+AAPL
+MSFT
+BRK-B
+GE
+AMZN
+DB
